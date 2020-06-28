@@ -1,1 +1,1 @@
-# JavaTextGame
+# JavaMinesweeper
